@@ -1,0 +1,24 @@
+{
+  "name": "cermati",
+  "version": "1.0.0",
+  "description": "Online Assesment for Cermati.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sultansaladd/web-scraping.git"
+  },
+  "author": "Sultan Saladdin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sultansaladd/web-scraping/issues"
+  },
+  "homepage": "https://github.com/sultansaladd/web-scraping#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cheerio": "^1.0.0-rc.5",
+    "superagent": "^6.1.0"
+  }
+}
